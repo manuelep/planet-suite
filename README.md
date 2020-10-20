@@ -2,6 +2,10 @@
 
 Planet is a suite of component modules developed with [py4web](http://py4web.com/) web framework and thought as useful tools for quick develop web applications designed around spatial or geographical data.
 
+## The Suite
+
+[Planetstore](https://github.com/manuelep/planetstore){: .btn} [Planetclient](https://github.com/manuelep/planetclient){: .btn} [iTile](https://github.com/manuelep/itile){: .btn}
+
 # Components
 
 ## Notes
