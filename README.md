@@ -4,7 +4,9 @@ Planet is a suite of component modules developed with [py4web](http://py4web.com
 
 ## The Suite
 
-[Planetstore](https://github.com/manuelep/planetstore .btn) [Planetclient](https://github.com/manuelep/planetclient){: .btn} [iTile](https://github.com/manuelep/itile){: .btn}
+<a href="https://github.com/manuelep/planetstore" class="btn">Planetstore</a>
+<a href="https://github.com/manuelep/planetclient" class="btn">Planetclient</a>
+<a href="https://github.com/manuelep/itile" class="btn">iTile</a>
 
 # Components
 
